@@ -52,9 +52,9 @@ The Power BI dashboard provides:
 
 * India vs New Zealand Scorecard: Compare key metrics between India and New Zealand.
 
-<p align = “center”>
-  <img src="" width="300" height="500" />
-</p>
+
+## Dashboard
+![image alt](https://github.com/Thrishal1105/HR-Data-Analytics-Dashboard/blob/edc401ed18fded42fcc89b332203dcf104a8cf49/Screenshot%202025-09-14%20002830.png)
 
 ## Visualizations
 
