@@ -4,6 +4,8 @@
 
 This repository provides a comprehensive HR dataset analysis using Microsoft Power BI. It includes an Excel file (hr-data.xlsx) containing employee information (Name, Gender, Age, Rating, Date Joined, Department, Salary, Country) and a Power BI report visualizing key insights. The interactive dashboard uses graphs (bar charts, pie charts, histograms), tables, and filters to answer important HR questions.
 
+This visualization compares India vs. New Zealand on key HR metrics using an Excel dataset, transformed into an interactive Power BI dashboard.
+
 ## Business Questions Answered
 
 The following business questions were addressed using Power BI:
